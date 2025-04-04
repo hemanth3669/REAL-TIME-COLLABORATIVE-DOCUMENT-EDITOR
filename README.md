@@ -9,6 +9,10 @@ company : B hemanth kumar
 
 *mentor*: Neela Santosh
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b73b1676-8318-4641-8838-ad27621aede5)
+
 
 # React + Vite
 
